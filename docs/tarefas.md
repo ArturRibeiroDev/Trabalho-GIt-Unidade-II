@@ -1,0 +1,4 @@
+- Renomear setCount para updateCount.
+- Alterar incremento para 2 em 2.
+- Alterar cor primária no styles.css para verde.
+- Alterar título no index.html para incluir 'Equipe B'.

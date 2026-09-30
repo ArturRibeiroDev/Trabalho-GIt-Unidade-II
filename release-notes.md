@@ -8,3 +8,4 @@
 
 ## Histórico
 - v0.1.0 (base de desenvolvimento): setup inicial.
+- v1.0.0 Versão Final

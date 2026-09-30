@@ -18,5 +18,5 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno A (owner), Aluno B, Aluno C.
+- Aluno A Artur Ribeiro, Aluna B Leticia Ayumi, Aluno C Paulo Nogueira.
 # Trabalho-GIt-Unidade-II

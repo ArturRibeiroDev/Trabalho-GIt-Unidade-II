@@ -1,0 +1,2 @@
+- Incrementar de 2 em 2 em um contador
+- Alterar o tema, entre modo Escuro e modo Claro

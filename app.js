@@ -23,8 +23,8 @@ elDecrement.addEventListener("click", () => {
 
 elToggleTheme.addEventListener("click", () => {
   state.dark = !state.dark;
-  document.documentElement.style.setProperty("--bg", state.dark ? "#0b1220" : "#f8fafc");
-  document.documentElement.style.setProperty("--text", state.dark ? "#e2e8f0" : "#0f172a");
+  document.documentElement.style.setProperty("--bg", state.dark ? "#0b2010" : "#f8fafc");
+  document.documentElement.style.setProperty("--text", state.dark ? "#1278fd" : "#0f172a");
   elTitle.textContent = state.dark ? "Modo Escuro" : "Equipe B";
   elToggleTheme.setAttribute("aria-pressed", String(state.dark));
 });
